@@ -1,0 +1,1 @@
+Con los códigos anteriores buscamos aplicar algoritmos de grafos para analizar y resolver problemas de conexión y optimización, como encontrar rutas más cortas, árboles de costo mínimo y relaciones entre nodos, demostrando su utilidad en contextos reales como redes, mapas o sistemas sociales.
